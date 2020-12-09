@@ -1,0 +1,36 @@
+*{ padding:0;
+	margin: 0;
+}
+body{ background-image: url(PUBG.jpg);
+      background-position: center;
+       background-repeat: no-repeat;
+        background-size: cover;
+}
+h1{background-color: antiquewhite;
+	color: black;
+
+}
+
+
+.detail-box{
+	margin: 200px;
+	padding: 60px;
+    background-color: antiquewhite;
+    border: 8px solid red;
+    border-radius:2px; 
+}
+.login-box{
+  background-color: skyblue;
+  margin: 200px;
+  padding: 100px;
+  border:10px solid black ;
+  }
+  input{
+  width: 100%;
+  padding: 12px 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
