@@ -1,3 +1,3 @@
 # BGMI CLASSIC LEAGUE
 OFFICIAL WEBSITE OF THE ESPORTS LEAGUE OF BUCL
-
+Everyome is free to contribute.
